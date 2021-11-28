@@ -18,4 +18,8 @@ Here are some ideas to get you started:
 
 ![Massango Status](https://github-readme-stats.vercel.app/api?username=FirminoMassango&show_icons=true)
 
- ![Snake animation](https://github.com/firminomassango/firminomassango/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/FirminoMassango/FirminoMassango/blob/output/github-contribution-grid-snake.svg)
+ 
+ ![Snake animation]( https://github.com/FirminoMassango/FirminoMassango/blob/output/github-contribution-grid-snake.gif)
+ 
+
