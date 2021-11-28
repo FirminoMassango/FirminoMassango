@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Massango Status](https://github-readme-stats.vercel.app/api?username=FirminoMassango&show_icons=true)
