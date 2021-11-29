@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![Massango Status](https://github-readme-stats.vercel.app/api?username=FirminoMassango&show_icons=true)
 ![Massango's GitHub stats](https://github-readme-stats.vercel.app/api?username=FirminoMassango&count_private=true)
 
 
