@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 -->
 
 
-![Massango's GitHub stats](https://github-readme-stats.vercel.app/api?username=FirminoMassango&count_private=true&show_icons=true)
+<!--![Massango's GitHub stats](https://github-readme-stats.vercel.app/api?username=FirminoMassango&count_private=true&show_icons=true)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FirminoMassango&layout=compact)](https://github.com/FirminoMassango/github-readme-stats)
 
+-->
 
 
 
 
-
-<!--  ![Snake animation](https://github.com/FirminoMassango/FirminoMassango/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/FirminoMassango/FirminoMassango/blob/output/github-contribution-grid-snake.svg)
  
 <!--  ![Snake animation]( https://github.com/FirminoMassango/FirminoMassango/blob/output/github-contribution-grid-snake.gif) -->
  
